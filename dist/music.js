@@ -29,7 +29,7 @@ const ap = new APlayer({
       },
     ]
 });
-const colorThief = new ColorThief();
+/*const colorThief = new ColorThief();
 const image = new Image();
 const xhr = new XMLHttpRequest();
 const setTheme = (index) => {
@@ -51,4 +51,4 @@ const setTheme = (index) => {
 setTheme(ap.list.index);
 ap.on('listswitch', (index) => {
     setTheme(index);
-});
+});*/
